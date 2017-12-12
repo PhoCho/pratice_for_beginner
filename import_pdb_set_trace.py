@@ -3,7 +3,13 @@
 import pdb
 pdb.set_trace()
 
-print("n for next")
+print("2 Most Important Basic Command")
+print("Go to next breakpoint -> n")
+print("Great! Now Go to next BreakPoint")
+print("Another Command to know is -> b")
+print("b stands for breakpoint")
+print("Feeling annoyed with all these lines?")
+print("You can terminate all breakpoint... u know")
 
 number = 1+1
 print("type print number")
